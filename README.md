@@ -25,7 +25,9 @@ Para ativar o ambiente use o comando `. ./DIRETORIO_DO_NOVO_AMBIENTE_VIRTUAL/bin
 
 #### Resumo
 Instalar o venv: `sudo apt-get install python3-venv`
+
 Criar o ambiente virtual: `python3 -m venv DIRETORIO_DO_NOVO_AMBIENTE_VIRTUAL`
+
 Ativar o ambiente virtual: `. ./DIRETORIO_DO_NOVO_AMBIENTE_VIRTUAL/bin/activate`
 
 
